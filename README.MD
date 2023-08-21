@@ -11,9 +11,9 @@ This project is a simple web-based traffic light simulation built using HTML, CS
 
 ## Demo
 
-You can view a live demo of the traffic light simulation here: [Traffic Light Demo](https://example.com/traffic-light-demo)
+You can view a live demo of the traffic light simulation here: (https://taleluz.github.io/the_traffic_light_game/)
 
-![Traffic Light Simulation](screenshot.png)
+
 
 ## Getting Started
 
